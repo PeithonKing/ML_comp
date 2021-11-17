@@ -1,4 +1,8 @@
-
+*.ipynb_checkpoints/
+*datasetjpgrgb/
+*training*/
 *.csv
 *.json
 *.rar
+*.zip
+*.gz
