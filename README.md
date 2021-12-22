@@ -1,6 +1,6 @@
-# Our Submission for ML4SI Hackathon
+# Our Submission for ML4SCI Hackathon
 
-This is a repository to contain the codes for the [ML4SI Hackathon](https://github.com/ML4SCI/ML4SCIHackathon). We tried the Gravitational Lensing Challenge also, but it didn't work well. So we didin't submit it. The Higgs Boson Classification Challenge contains our submission.
+This is a repository to contain the codes for the [ML4SCI Hackathon](https://github.com/ML4SCI/ML4SCIHackathon). We tried the Gravitational Lensing Challenge also, but it didn't work well. So we didin't submit it. The Higgs Boson Classification Challenge contains our submission.
 
 * Contributors:
     * Diptarko Choudhury
