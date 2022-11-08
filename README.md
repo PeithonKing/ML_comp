@@ -15,3 +15,7 @@ This is a repository to contain the codes for the [ML4SCI Hackathon](https://git
 ### We focussed on building an ensemble model which consisted of 5 neural network architectures and 1 XGBoost architecture. The entire model was trained in parts on a single 1060ti 6gb Graphics card. The net ROC-AUC obtained as around 0.88. The data was split into test and training of which the training set consisted of first 10 Million data points and the rest was given to the test set
 
 * To go to the Github Repository, [click here](https://github.com/PeithonKing/ML_comp/tree/main/Higgs)
+
+# Update!
+
+### We came first in the Higgs Challenge. [The certificate](Ml4SCI2021_certificate.pdf)
